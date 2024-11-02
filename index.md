@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to [Your Lab Name]
 
-Welcome to the [Your Lab Name] website! Our lab focuses on [brief description of your research focus].
+Welcome to the Kreplak Research Group website! Our lab focuses on ...
 
 Explore our research, publications, and team members to learn more about what we do.
 
