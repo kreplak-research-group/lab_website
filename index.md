@@ -9,6 +9,8 @@ Explore our research, publications, and team members to learn more about what we
 
 [Read about our research](research.md)
 
+[Read about our team](team.md)
+
 [Read about our publications](publications.md)
 
 ![Lab Photo](/assets/test_image.jpg)
