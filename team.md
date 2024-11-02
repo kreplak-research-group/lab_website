@@ -5,11 +5,12 @@ title: Team
 
 # Meet the Team
 
-## Principal Investigator
-- **[Name]** – Brief bio and area of expertise.
-
-## Graduate Students
-- **[Name]** – Research focus.
+## Current Team
+- **[Name]** – 
+- **[Name]** – 
+- **[Name]** – 
 
 ## Alumni
-- **[Name]** – Past contributions.
+- **[Name]** –
+- **[Name]** –
+- **[Name]** –

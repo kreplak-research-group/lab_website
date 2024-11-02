@@ -13,4 +13,6 @@ Explore our research, publications, and team members to learn more about what we
 
 [Read about our publications](publications.md)
 
+(Replace below with lab pictures)
+
 ![Lab Photo](/assets/test_image.jpg)
