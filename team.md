@@ -14,7 +14,7 @@ title: Team
 - **[Parth Maheta]** – Coop student, protein fibre production using extensional flow
 
 ## Alumni
-Swomitra Palit (Post-Doctoral Fellow, 2021)
+- Swomitra Palit (Post-Doctoral Fellow, 2021)
 Sandy Suei (Post-Doctoral Fellow, 2012)
 Sam Baldwin (PhD in Physics, 2019)
 Karan Chowdhry (MSc in Physics, 2020)
