@@ -1,4 +1,8 @@
-## Current Team
+---
+layout: default
+title: Lab members
+---
+
 - **Laurent Kreplak** – Professor, kreplak@dal.ca (all inquiries)
 - **Hessam Yagoobi** – Post-doctoral Fellow, hessam.yaghoobi@dal.ca, Bottom-up assembly of collagen fibres
 - **Gavin Kerr** – PhD Candidate, gavin.kerr@dal.ca, protein fibre production using extensional flow
