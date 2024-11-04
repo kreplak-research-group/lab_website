@@ -1,4 +1,7 @@
-# Publications
+---
+layout: default
+title: Publications
+---
 
 You can find a full list of publications on [google scholar](https://scholar.google.ca/citations?user=ovyshn0AAAAJ&hl=en&oi=ao)
 
