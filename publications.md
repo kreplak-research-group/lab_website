@@ -1,8 +1,3 @@
----
-layout: default
-title: Publications
----
-
 # Publications
 
 You can find a full list of publications here: https://scholar.google.ca/citations?user=ovyshn0AAAAJ&hl=en&oi=ao
