@@ -1,10 +1,3 @@
----
-layout: default
-title: Team
----
-
-# Meet the Team
-
 ## Current Team
 - **Laurent Kreplak** – Professor, kreplak@dal.ca (all inquiries)
 - **Hessam Yagoobi** – Post-doctoral Fellow, hessam.yaghoobi@dal.ca, Bottom-up assembly of collagen fibres
