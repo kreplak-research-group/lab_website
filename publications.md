@@ -1,6 +1,6 @@
 # Publications
 
-You can find a full list of publications here: https://scholar.google.ca/citations?user=ovyshn0AAAAJ&hl=en&oi=ao
+You can find a full list of publications on [google scholar](https://scholar.google.ca/citations?user=ovyshn0AAAAJ&hl=en&oi=ao)
 
 ## Recent Collagen Papers
 1. **Formation of linear arrays of holes in self-assembled collagen films** - Melis Erkan, Kaitlyn Blakney, Emily Andrews, Reagan Leslie, Eda Ozsan, Laurent Kreplak, Frontiers in Soft Matter, 2024.
