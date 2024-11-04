@@ -15,7 +15,7 @@ title: Team
 
 ## Alumni
 - Swomitra Palit (Post-Doctoral Fellow, 2021)
-Sandy Suei (Post-Doctoral Fellow, 2012)
+- Sandy Suei (Post-Doctoral Fellow, 2012)
 Sam Baldwin (PhD in Physics, 2019)
 Karan Chowdhry (MSc in Physics, 2020)
 Chris Peacock (MSc in Physics, 2019)
