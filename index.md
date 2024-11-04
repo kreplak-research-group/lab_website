@@ -15,4 +15,4 @@ We are always looking for new graduate students and undergraduate students (Hono
 
 [Read about our publications](publications.md)
 
-![Lab Photo](/assets/test_image.jpg)
+![Lab Photo](/assets/Main_page.jpg)
