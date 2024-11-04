@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Kreplak lab
 ---
 
 # Welcome to the Kreplak Research Group 
