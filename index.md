@@ -9,10 +9,10 @@ Our goal is to unveil the design rules underlying the unique mechanical properti
 We are always looking for new graduate students and undergraduate students (Honour’s thesis and summer research opportunities) interested to work in experimental biophysics and soft matter physics.
 
 
-[Read about our research](research.md)
+[Our research areas](research.md)
 
-[Read about our team](team.md)
+[Our team](team.md)
 
-[Read about our publications](publications.md)
+[Sample publications and more](publications.md)
 
 ![Lab Photo](/assets/Main_page.jpg)
