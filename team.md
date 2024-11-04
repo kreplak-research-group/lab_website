@@ -6,12 +6,12 @@ title: Team
 # Meet the Team
 
 ## Current Team
-- **[Laurent Kreplak]** – Professor, kreplak@dal.ca (all inquiries)
-- **[Hessam Yagoobi]** – Post-doctoral Fellow, hessam.yaghoobi@dal.ca, Bottom-up assembly of collagen fibres
-- **[Gavin Kerr]** – PhD Candidate, gavin.kerr@dal.ca, protein fibre production using extensional flow
-- **[Kelsey Gsell]** – PhD Candidate, kelsey.gsell@dal.ca, collagen degradation and turn over 
-- **[MacAulay Harvey]** – PhD Candidate, macaulay.harvey@smu.ca, SHG of collagen fibrils
-- **[Parth Maheta]** – Coop student, protein fibre production using extensional flow
+- **Laurent Kreplak** – Professor, kreplak@dal.ca (all inquiries)
+- **Hessam Yagoobi** – Post-doctoral Fellow, hessam.yaghoobi@dal.ca, Bottom-up assembly of collagen fibres
+- **Gavin Kerr** – PhD Candidate, gavin.kerr@dal.ca, protein fibre production using extensional flow
+- **Kelsey Gsell** – PhD Candidate, kelsey.gsell@dal.ca, collagen degradation and turn over 
+- **MacAulay Harvey** – PhD Candidate, macaulay.harvey@smu.ca, SHG of collagen fibrils
+- **Parth Maheta** – Coop student, protein fibre production using extensional flow
 
 ## Alumni
 - Swomitra Palit (Post-Doctoral Fellow, 2021)
