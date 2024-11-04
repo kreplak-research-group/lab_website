@@ -16,4 +16,5 @@ You can find a full list of publications here: https://scholar.google.ca/citatio
 
 ## Recent Contact drawing Papers
 1. **Multifilament Collagen Fiber Bundles with Tendon‐like Structure and Mechanical Performancer** - Hessameddin Yaghoobi, Alison Clarke, Gavin Kerr, John Frampton, Laurent Kreplak, Macromolecular Rapid Communications, 2023.
-2. **Title of Paper** - Author(s), Journal, Year.
+2. **Formation of core-sheath polymer fibers by free surface spinning of aqueous two-phase systems** - Swomitra Palit, Laurent Kreplak, John P Frampton, Langmuir, 2022.
+3. **Polymer entanglement drives formation of fibers from stable liquid bridges of highly viscous dextran solutions** - Gurkaran Chowdhry, Yi Ming Chang, John P Frampton, Laurent Kreplak, Soft Matter, 2021.
