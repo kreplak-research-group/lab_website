@@ -6,9 +6,10 @@ title: Team
 # Meet the Team
 
 ## Current Team
-- **[Name]** – 
-- **[Name]** – 
-- **[Name]** – 
+- **[Laurent Kreplak]** – 
+- **[Gavin Kerr]** – 
+- **[Hessam Yagoobi]** –
+- **[Parth Maheta]** –
 
 ## Alumni
 - **[Name]** –
