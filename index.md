@@ -3,16 +3,16 @@ layout: default
 title: Home
 ---
 
-# Welcome to the Kreplak Research Group website!
+# Welcome to the Kreplak Research Group 
 
-Explore our research, publications, and team members to learn more about what we do.
+Our goal is to unveil the design rules underlying the unique mechanical properties of protein assemblies, cells and tissues. We are interested in both bottom-up and top-down approaches. In the former, we study the relationship between structure and mechanical properties for peptides and proteins assemblies in vitro. In the latter, we are interested in human pathologies that modify the mechanical properties of cells and tissues through changes in cytoskeletal or extra-cellular matrix architecture. The techniques we use include atomic force microscopy, electron microscopy, X-ray scattering, second harmonic generation microscopy, as well as Infrared and Raman spectroscopy.
+We are always looking for new graduate students and undergraduate students (Honour’s thesis and summer research opportunities) interested to work in experimental biophysics and soft matter physics
+
 
 [Read about our research](research.md)
 
 [Read about our team](team.md)
 
 [Read about our publications](publications.md)
-
-(Replace below with lab pictures)
 
 ![Lab Photo](/assets/test_image.jpg)
