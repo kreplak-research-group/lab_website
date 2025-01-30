@@ -6,13 +6,12 @@ title: Lab members
 - **Laurent Kreplak** – Professor, kreplak@dal.ca (all inquiries)
 - **Hessam Yagoobi** – Post-doctoral Fellow, hessam.yaghoobi@dal.ca, Bottom-up assembly of collagen fibres
 - **Gavin Kerr** – PhD Candidate, gavin.kerr@dal.ca, protein fibre production using extensional flow
-- **Kelsey Gsell** – PhD Candidate, kelsey.gsell@dal.ca, collagen degradation and turn over 
 - **MacAulay Harvey** – PhD Candidate, macaulay.harvey@smu.ca, SHG of collagen fibrils
-- **Parth Maheta** – Coop student, protein fibre production using extensional flow
 
 ## Alumni
 - Swomitra Palit (Post-Doctoral Fellow, 2021)
 - Sandy Suei (Post-Doctoral Fellow, 2012)
+- Kelsey Gsell (PhD in Biomedical Engineering, 2024)
 - Sam Baldwin (PhD in Physics, 2019)
 - Karan Chowdhry (MSc in Physics, 2020)
 - Chris Peacock (MSc in Physics, 2019)
@@ -27,6 +26,7 @@ title: Lab members
 - Charlotte Clegg (BSc Honour's in Physics, 2013)
 - Patrick Fortier (BSc Honour's in Physics, 2012)
 - Andrew Gylian (Research assistant, 2010)
+- Parth Maheta (Coop student, 2024)
 - Grecia Sanchez Ruiz (Summer student, 2024)
 - Grace O'Connor (Coop student, 2024)
 - Kateryna Topchylo (Summer student, 2023)
