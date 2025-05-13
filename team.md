@@ -6,7 +6,9 @@ title: Lab members
 - **Laurent Kreplak** – Professor, kreplak@dal.ca (all inquiries)
 - **Hessam Yagoobi** – Post-doctoral Fellow, hessam.yaghoobi@dal.ca, Bottom-up assembly of collagen fibres
 - **Gavin Kerr** – PhD Candidate, gavin.kerr@dal.ca, protein fibre production using extensional flow
+- **Ben Hansson** – PhD Candidate, ben.hansson@dal.ca, Physical detection and quantification of AGEs in collagenous tissues
 - **MacAulay Harvey** – PhD Candidate, macaulay.harvey@smu.ca, SHG of collagen fibrils
+- **Grecia Sanchez Ruiz** – MSc Candidate, protein microfibre scaffolds for tissue culture
 
 ## Alumni
 - Swomitra Palit (Post-Doctoral Fellow, 2021)
