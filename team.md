@@ -4,13 +4,13 @@ title: Lab members
 ---
 
 - **Laurent Kreplak** – Professor, kreplak@dal.ca (all inquiries)
-- **Hessam Yagoobi** – Post-doctoral Fellow, hessam.yaghoobi@dal.ca, Bottom-up assembly of collagen fibres
 - **Gavin Kerr** – PhD Candidate, gavin.kerr@dal.ca, protein fibre production using extensional flow
 - **Ben Hansson** – PhD Candidate, ben.hansson@dal.ca, Physical detection and quantification of AGEs in collagenous tissues
 - **MacAulay Harvey** – PhD Candidate, macaulay.harvey@smu.ca, SHG of collagen fibrils
-- **Grecia Sanchez Ruiz** – MSc Candidate, protein microfibre scaffolds for tissue culture
+- **Grecia Sanchez Ruiz** – MSc Candidate, grecia.sanchez@dal.ca, protein microfibre scaffolds for tissue culture
 
 ## Alumni
+- Hessam Yaghoobi (Post-Doctoral Fellow, 2025)
 - Swomitra Palit (Post-Doctoral Fellow, 2021)
 - Sandy Suei (Post-Doctoral Fellow, 2012)
 - Kelsey Gsell (PhD in Biomedical Engineering, 2024)
@@ -28,6 +28,7 @@ title: Lab members
 - Charlotte Clegg (BSc Honour's in Physics, 2013)
 - Patrick Fortier (BSc Honour's in Physics, 2012)
 - Andrew Gylian (Research assistant, 2010)
+- Anh Tran (Summer student, 2025)
 - Parth Maheta (Coop student, 2024)
 - Grecia Sanchez Ruiz (Summer student, 2024)
 - Grace O'Connor (Coop student, 2024)
