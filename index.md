@@ -18,3 +18,7 @@ We are always looking for new graduate students and undergraduate students (Hono
 [Our lab Github](https://github.com/kreplak-research-group)
 
 ![Lab Photo](/assets/Main_page.jpg)
+
+# Eye candy from the lab
+
+![Lab Photo](/assets/Collagen_assembly.png)
