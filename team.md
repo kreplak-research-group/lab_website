@@ -2,12 +2,22 @@
 layout: default
 title: Lab members
 ---
-
+![LK2020_small](https://github.com/user-attachments/assets/ff9ca7f5-dca4-4deb-9bac-56391987ebde)
 - **Laurent Kreplak** – Professor, kreplak@dal.ca (all inquiries)
+  
 - **Gavin Kerr** – PhD Candidate, gavin.kerr@dal.ca, protein fibre production using extensional flow
+
+![Ben_Hansson_small](https://github.com/user-attachments/assets/d0a058f0-5d94-4cc5-9ba5-71f87749c9c0)
 - **Ben Hansson** – PhD Candidate, ben.hansson@dal.ca, Physical detection and quantification of AGEs in collagenous tissues
+  
 - **MacAulay Harvey** – PhD Candidate, macaulay.harvey@smu.ca, SHG of collagen fibrils
+  
 - **Grecia Sanchez Ruiz** – MSc Candidate, grecia.sanchez@dal.ca, protein microfibre scaffolds for tissue culture
+
+**Lab April 2026**
+
+![Group2026_small](https://github.com/user-attachments/assets/47764b32-7b96-476a-a6a3-f42b64a9b5c0)
+
 
 ## Alumni
 - Hessam Yaghoobi (Post-Doctoral Fellow, 2025)
