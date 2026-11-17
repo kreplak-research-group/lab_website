@@ -10,8 +10,6 @@ title: Lab members
 ![Ben_Hansson_small](https://github.com/user-attachments/assets/d0a058f0-5d94-4cc5-9ba5-71f87749c9c0)
 - **Ben Hansson** – PhD Candidate, ben.hansson@dal.ca, Physical detection and quantification of AGEs in collagenous tissues
   
-- **MacAulay Harvey** – PhD Candidate, macaulay.harvey@smu.ca, SHG of collagen fibrils
-  
 - **Grecia Sanchez Ruiz** – MSc Candidate, grecia.sanchez@dal.ca, protein microfibre scaffolds for tissue culture
 
 **Lab April 2026**
@@ -20,24 +18,28 @@ title: Lab members
 
 
 ## Alumni
-- Hessam Yaghoobi (Post-Doctoral Fellow, 2025)
+- MacAulay Harvey (PhD in Applied Science, 2026)
+- Kateryna Topchylo (MSc in Materials Engineering, 2026)
+- Hessameddin Yaghoobi (Post-Doctoral Fellow, 2025)
 - Swomitra Palit (Post-Doctoral Fellow, 2021)
 - Sandy Suei (Post-Doctoral Fellow, 2012)
 - Kelsey Gsell (PhD in Biomedical Engineering, 2024)
 - Sam Baldwin (PhD in Physics, 2019)
-- Karan Chowdhry (MSc in Physics, 2020)
+- Gurkaran Chowdhry (MSc in Physics, 2020)
 - Chris Peacock (MSc in Physics, 2019)
 - Sam Cameron (MSc in Physics, 2019)
 - S. M. Asif Iqbal (MSc in Physics, 2018)
 - Andrew Quigley (BSc Honour's in Physics and MSc in Physics, 2016)
 - Corinne Gullekson (MSc in Physics, 2011)
 - Terry Colbourne (MSc in Biochemistry, 2010)
+- Coleman Swain (BSc Honour's in Physics, 2026)
 - Yi Ming Chang (BSc Honour's in Physics, 2021)
 - Eva Lee (BSc Honour's in Physics, 2018)
 - Johnny Farah (BSc Honour's in Physics, 2014)
 - Charlotte Clegg (BSc Honour's in Physics, 2013)
 - Patrick Fortier (BSc Honour's in Physics, 2012)
 - Andrew Gylian (Research assistant, 2010)
+- Alice Millar (Summer student, 2026)
 - Anh Tran (Summer student, 2025)
 - Parth Maheta (Coop student, 2024)
 - Grecia Sanchez Ruiz (Summer student, 2024)
